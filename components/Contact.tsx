@@ -27,7 +27,7 @@ export default function Contact() {
 
   const handleCopy = async () => {
     try {
-      await navigator.clipboard.writeText(profile.email)
+      await navigator.clipboard.writeText('hello@placeholder.dev')
       setCopied(true)
       setToastVisible(true)
       setTimeout(() => {

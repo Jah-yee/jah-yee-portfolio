@@ -7,10 +7,10 @@ export const profile = {
   location: 'Dubai, UAE / Shanghai, China',
   university: 'Fudan University',
   status: 'available' as const,
-  email: 'jydu_seven@outlook.com',
-  github: 'https://github.com/jah-yee',
-  twitter: 'https://twitter.com/jah_yee',
-  linkedin: 'https://linkedin.com/in/jah-yee',
+  email: 'hello@placeholder.dev',
+  github: 'https://www.google.com/search?q=%E5%8A%A0%E4%B8%80',
+  twitter: 'https://www.google.com/search?q=%E5%8A%A0%E4%B8%80',
+  linkedin: 'https://www.google.com/search?q=%E5%8A%A0%E4%B8%80',
 }
 
 export const stats = [
@@ -22,13 +22,13 @@ export const stats = [
 
 export const about = {
   bio: [
-    'I build tools that make AI actually useful — not just impressive demos that fall apart in production. Currently an exchange student at Fudan University, splitting my time between coursework and shipping side projects.',
-    'My sweet spot is the gap between research prototypes and production systems. I take an idea from "wouldn\'t it be cool if..." to a working demo in 48 hours, then stress-test whether it holds up under real usage.',
-    'When I\'m not coding, I\'m probably at a hackathon, arguing about agent architectures, or reading about distributed systems. I believe the best software is invisible — it just works, and you forget it was ever hard.',
+    'Building tools that make AI actually useful — not just impressive demos that fall apart in production. Currently focused on shipping side projects while exploring the gap between research prototypes and production systems.',
+    'Sweet spot: taking an idea from "wouldn\'t it be cool if..." to a working demo in 48 hours, then stress-testing whether it holds up under real usage.',
+    'When not coding: hackathons, agent architecture debates, distributed systems papers. Best software is invisible — it just works, and you forget it was ever hard.',
   ],
   quickFacts: [
-    { label: 'Based in', value: 'Dubai / Shanghai' },
-    { label: 'Education', value: 'Fudan University (Exchange)' },
+    { label: 'Based in', value: 'Middle East / East Asia' },
+    { label: 'Education', value: 'CS (Exchange Program)' },
     { label: 'Focus', value: 'AI Tools & Developer DX' },
     { label: 'Languages', value: 'Python, TypeScript, Go' },
     { label: 'Stack', value: 'React, Node.js, Next.js' },
